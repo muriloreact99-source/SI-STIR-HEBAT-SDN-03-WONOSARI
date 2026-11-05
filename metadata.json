@@ -1,0 +1,6 @@
+{
+  "name": "SI STIR HEBAT SDN 03 Wonosari",
+  "description": "Sistem Informasi Supervisi Terintegrasi, Ruang Harmonis Edukatif, Bersama Wujudkan Anak Indonesia Hebat di SDN 03 Wonosari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
